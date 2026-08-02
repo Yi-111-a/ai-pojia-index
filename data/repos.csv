@@ -1,0 +1,138 @@
+﻿category,stars,repo,url,updated,language,archived,fork,notes
+prompt-injection-defense,10712,LouisShark/chatgpt_system_prompt,https://github.com/LouisShark/chatgpt_system_prompt,2026-08-01,HTML,false,false,System prompt and prompt injection knowledge index
+prompt-injection-defense,6696,superagent-ai/superagent,https://github.com/superagent-ai/superagent,2026-08-02,TypeScript,false,false,AI application guardrails
+prompt-injection-defense,4363,Tencent/AI-Infra-Guard,https://github.com/Tencent/AI-Infra-Guard,2026-08-02,Python,false,false,AI security scan and jailbreak evaluation
+codex-gpt56-pojia,4281,MDX-Tom/gpt-5.6-instruct,https://github.com/MDX-Tom/gpt-5.6-instruct,2026-08-02,Python,false,false,GPT-5.6 Codex jailbreak pack
+prompt-injection-defense,1517,protectai/rebuff,https://github.com/protectai/rebuff,2026-07-28,TypeScript,true,false,Prompt injection detector
+prompt-injection-defense,1073,trailofbits/anamorpher,https://github.com/trailofbits/anamorpher,2026-07-30,Python,false,false,Multimodal prompt injection attack research
+codex-agent-tools,1028,chen0416ccc-cpu/codex-windows-fast-patch-skill,https://github.com/chen0416ccc-cpu/codex-windows-fast-patch-skill,2026-08-02,PowerShell,false,false,Codex Desktop Windows patch skill
+resource-list,938,scadastrangelove/awesome-ai-security-tools,https://github.com/scadastrangelove/awesome-ai-security-tools,2026-08-01,Python,false,false,AI security tools collection
+prompt-injection-defense,786,luckyPipewrench/pipelock,https://github.com/luckyPipewrench/pipelock,2026-08-02,Go,false,false,AI agent firewall
+prompt-injection-defense,777,toby-bridges/api-relay-audit,https://github.com/toby-bridges/api-relay-audit,2026-08-02,Python,false,false,AI API relay audit
+prompt-injection-defense,736,Arcanum-Sec/arc_pi_taxonomy,https://github.com/Arcanum-Sec/arc_pi_taxonomy,2026-07-31,Unknown,false,false,Prompt injection taxonomy
+llm-jailbreak-redteam,735,langgptai/LLM-Jailbreaks,https://github.com/langgptai/LLM-Jailbreaks,2026-08-01,Unknown,false,false,LLM jailbreak and prompt leaking collection
+prompt-injection-defense,720,ZeroLeaks/zeroleaks,https://github.com/ZeroLeaks/zeroleaks,2026-07-31,TypeScript,false,false,AI security scanner
+resource-list,717,tldrsec/prompt-injection-defenses,https://github.com/tldrsec/prompt-injection-defenses,2026-07-30,Unknown,false,false,Prompt injection defense list
+resource-list,713,anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection,https://github.com/anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection,2026-08-02,Unknown,false,false,AI ML security roadmap
+prompt-injection-defense,676,arcjet/arcjet-js,https://github.com/arcjet/arcjet-js,2026-08-01,TypeScript,false,false,Runtime AI app security
+resource-list,661,PromptLabs/Prompt-Hacking-Resources,https://github.com/PromptLabs/Prompt-Hacking-Resources,2026-08-02,Unknown,false,false,Prompt hacking resources
+resource-list,607,jthack/PIPE,https://github.com/jthack/PIPE,2026-07-24,Unknown,false,false,Prompt Injection Primer for Engineers
+resource-list,573,Joe-B-Security/awesome-prompt-injection,https://github.com/Joe-B-Security/awesome-prompt-injection,2026-08-02,Unknown,false,false,Prompt injection learning resources
+prompt-injection-defense,500,secureagentics/Adrian,https://github.com/secureagentics/Adrian,2026-08-02,Python,false,false,Runtime AI agent monitor
+prompt-injection-defense,492,deadbits/vigil-llm,https://github.com/deadbits/vigil-llm,2026-07-23,Python,false,false,LLM input risk detector
+prompt-injection-defense,469,liu00222/Open-Prompt-Injection,https://github.com/liu00222/Open-Prompt-Injection,2026-08-01,Python,false,false,Prompt injection benchmark
+prompt-injection-defense,422,hashgraph-online/hol-guard,https://github.com/hashgraph-online/hol-guard,2026-08-01,Python,false,false,AI agent runtime protection
+resource-list,351,yunwei37/prompt-hacker-collections,https://github.com/yunwei37/prompt-hacker-collections,2026-08-01,Unknown,false,false,Prompt attack and defense notes
+codex-gpt56-pojia,354,lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6,https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6,2026-08-02,Python,false,false,NERV GPT-5.6 Codex framework
+prompt-injection-defense,362,google-research/camel-prompt-injection,https://github.com/google-research/camel-prompt-injection,2026-08-01,Jupyter Notebook,false,false,Prompt injection defense research
+prompt-injection-defense,337,getagentseal/agentseal,https://github.com/getagentseal/agentseal,2026-08-01,Python,false,false,AI agent security toolkit
+resource-list,320,Shiva108/ai-llm-red-team-handbook,https://github.com/Shiva108/ai-llm-red-team-handbook,2026-07-31,Python,false,false,AI LLM red-team field manual
+prompt-injection-defense,270,LLMSecurity/HouYi,https://github.com/LLMSecurity/HouYi,2026-07-26,Python,false,false,Prompt injection framework
+prompt-injection-defense,264,praetorian-inc/augustus,https://github.com/praetorian-inc/augustus,2026-08-01,Go,false,false,LLM security testing framework
+prompt-injection-defense,262,CyberSunil/LLMVault,https://github.com/CyberSunil/LLMVault,2026-08-02,Python,false,false,Vulnerable LLM app training platform
+prompt-injection-defense,261,PrismorSec/prismor,https://github.com/PrismorSec/prismor,2026-08-02,Python,false,false,Runtime control plane for AI agents
+prompt-injection-defense,259,lasso-security/claude-hooks,https://github.com/lasso-security/claude-hooks,2026-07-31,TypeScript,false,false,Claude Code defenses
+prompt-injection-defense,229,ReversecLabs/spikee,https://github.com/ReversecLabs/spikee,2026-07-30,Python,false,false,Prompt injection evaluation kit
+prompt-injection-defense,217,TakSec/Prompt-Injection-Everywhere,https://github.com/TakSec/Prompt-Injection-Everywhere,2026-07-31,Unknown,false,false,Prompt injection examples and notes
+prompt-injection-defense,206,HeadyZhang/agent-audit,https://github.com/HeadyZhang/agent-audit,2026-07-31,Python,false,false,Static security scanner for LLM agents
+prompt-injection-defense,204,Hellsender01/LLMMap,https://github.com/Hellsender01/LLMMap,2026-07-29,Python,false,false,Prompt injection testing framework
+prompt-injection-defense,197,lakeraai/pint-benchmark,https://github.com/lakeraai/pint-benchmark,2026-07-31,Jupyter Notebook,false,false,Prompt injection detection benchmark
+resource-list,193,forcesunseen/llm-hackers-handbook,https://github.com/forcesunseen/llm-hackers-handbook,2026-07-16,Unknown,false,false,LLM hacking guide
+resource-list,180,Yeti-791/Awesome-Offensive-AI-Agentic-Landscape,https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape,2026-08-01,Unknown,false,false,Offensive AI agentic landscape
+prompt-injection-defense,172,seojoonkim/prompt-guard,https://github.com/seojoonkim/prompt-guard,2026-07-28,Python,false,false,Prompt injection defense system
+codex-gpt56-pojia,171,xsser/codex-jailbreak-guide,https://github.com/xsser/codex-jailbreak-guide,2026-07-28,Python,false,false,Codex CLI jailbreak guide
+llm-jailbreak-redteam,169,WhileBug/AwesomeLLMJailBreakPapers,https://github.com/WhileBug/AwesomeLLMJailBreakPapers,2026-07-30,Unknown,false,false,LLM jailbreak papers
+llm-jailbreak-redteam,167,usail-hkust/JailTrickBench,https://github.com/usail-hkust/JailTrickBench,2026-07-21,Python,false,false,Jailbreak attack benchmark
+prompt-injection-defense,150,microsoft/BIPIA,https://github.com/microsoft/BIPIA,2026-07-30,Python,false,false,Indirect prompt injection benchmark
+prompt-injection-defense,140,makalin/SecureMCP,https://github.com/makalin/SecureMCP,2026-05-18,Go,false,false,MCP security audit tool
+llm-jailbreak-redteam,138,gally16/LLM-Jailbreaking-Guide,https://github.com/gally16/LLM-Jailbreaking-Guide,2026-07-29,Unknown,false,false,LLM jailbreaking guide
+prompt-injection-defense,131,arekusandr/last_layer,https://github.com/arekusandr/last_layer,2026-07-17,Python,false,false,Injection and jailbreak detection
+resource-list,131,requie/LLMSecurityGuide,https://github.com/requie/LLMSecurityGuide,2026-07-30,Unknown,false,false,LLM security guide
+prompt-injection-defense,130,SleuthCo/clawshield-public,https://github.com/SleuthCo/clawshield-public,2026-07-18,Go,false,false,Security proxy for AI agents
+prompt-injection-defense,121,OraclesTech/guardian-sdk,https://github.com/OraclesTech/guardian-sdk,2026-07-31,Python,false,false,AI app protection SDK
+prompt-injection-defense,119,pasquini-dario/project_mantis,https://github.com/pasquini-dario/project_mantis,2026-07-21,Python,false,false,Prompt injection as defense research
+prompt-injection-defense,119,sinewaveai/agent-security-scanner-mcp,https://github.com/sinewaveai/agent-security-scanner-mcp,2026-07-31,JavaScript,false,false,Security scanner MCP server
+resource-list,119,user1342/Awesome-LLM-Red-Teaming,https://github.com/user1342/Awesome-LLM-Red-Teaming,2026-08-02,Unknown,false,false,LLM red-teaming resource list
+prompt-injection-defense,116,fu351/Doberman-Core,https://github.com/fu351/Doberman-Core,2026-08-02,Python,false,false,AI agent security framework
+prompt-injection-defense,113,StackOneHQ/defender,https://github.com/StackOneHQ/defender,2026-07-31,TypeScript,false,false,Tool-calling agent protection
+codex-agent-tools,113,khendzel/skills-janitor,https://github.com/khendzel/skills-janitor,2026-07-31,Shell,false,false,Skill scanning for Claude Code and Codex
+prompt-injection-defense,112,bountyyfi/invisible-prompt-injection,https://github.com/bountyyfi/invisible-prompt-injection,2026-07-24,Python,false,false,Invisible prompt injection research
+prompt-injection-defense,110,vaultmcp/vault,https://github.com/vaultmcp/vault,2026-07-29,Solidity,false,false,MCP scanning proxy
+prompt-injection-defense,106,socprime/AIDR-Bastion,https://github.com/socprime/AIDR-Bastion,2026-08-01,Python,false,false,GenAI protection system
+prompt-injection-defense,103,role-confusion/prompt-injection-as-role-confusion,https://github.com/role-confusion/prompt-injection-as-role-confusion,2026-08-02,Python,false,false,Role-confusion research
+resource-list,103,starlingly/system_prompts_and_injections,https://github.com/starlingly/system_prompts_and_injections,2026-07-31,Roff,false,false,LLM system prompts and injections
+prompt-injection-defense,102,nayangoel/PromptInjector,https://github.com/nayangoel/PromptInjector,2026-07-02,Python,false,false,Defensive testing tool
+prompt-injection-defense,101,numbergroup/AgentGuard,https://github.com/numbergroup/AgentGuard,2026-06-26,Python,false,false,Agent security framework
+prompt-injection-defense,98,facebookresearch/SecAlign,https://github.com/facebookresearch/SecAlign,2026-06-30,Python,false,false,Prompt injection defense research
+llm-jailbreak-redteam,96,SaFo-Lab/JailBreakV_28K,https://github.com/SaFo-Lab/JailBreakV_28K,2026-06-26,Python,false,false,Multimodal jailbreak benchmark
+prompt-injection-defense,94,Nova-Hunting/nova-tracer,https://github.com/Nova-Hunting/nova-tracer,2026-06-21,Python,false,false,Claude Code injection protection
+llm-jailbreak-redteam,87,nukIeer/AI-Prompt-Injection-Cheatsheet,https://github.com/nukIeer/AI-Prompt-Injection-Cheatsheet,2026-07-31,Unknown,false,false,Prompt injection and jailbreaking cheatsheet
+resource-list,83,0xAb1d/GPTsSystemPrompts,https://github.com/0xAb1d/GPTsSystemPrompts,2026-07-31,Unknown,false,false,GPT system prompt leak index
+codex-gpt56-pojia,81,dafage10086/codex-config-toolkit,https://github.com/dafage10086/codex-config-toolkit,2026-08-02,Python,false,false,Codex pojia toolkit
+prompt-injection-defense,80,leolee99/PIGuard,https://github.com/leolee99/PIGuard,2026-07-23,Python,false,false,Prompt injection guardrail research
+codex-agent-tools,79,fubak/ferret-scan,https://github.com/fubak/ferret-scan,2026-08-01,TypeScript,false,false,LLM CLI configuration scanner
+codex-gpt56-pojia,78,AAnything001/GPT-5.6-Instruct-GPT-5.5-Codex-Claude-Cursor,https://github.com/AAnything001/GPT-5.6-Instruct-GPT-5.5-Codex-Claude-Cursor,2026-08-02,Unknown,false,false,Codex Claude Cursor pojia-related
+prompt-injection-defense,77,Sizhe-Chen/StruQ,https://github.com/Sizhe-Chen/StruQ,2026-07-21,Python,false,false,Structured-query defense
+prompt-injection-defense,77,SpecterOps/Jailbreaker-CE,https://github.com/SpecterOps/Jailbreaker-CE,2026-07-30,Python,false,false,Jailbreak and injection evaluation
+prompt-injection-defense,75,securelayer7/PROMPTPurify,https://github.com/securelayer7/PROMPTPurify,2026-07-22,TypeScript,false,false,Prompt injection guardrail
+prompt-injection-defense,73,SheltonLiu-N/Universal-Prompt-Injection,https://github.com/SheltonLiu-N/Universal-Prompt-Injection,2026-07-06,Python,false,false,Universal prompt injection research
+prompt-injection-defense,72,HumanCompatibleAI/tensor-trust,https://github.com/HumanCompatibleAI/tensor-trust,2026-07-19,Python,false,false,Prompt injection game and dataset
+prompt-injection-defense,70,facebookresearch/Meta_SecAlign,https://github.com/facebookresearch/Meta_SecAlign,2026-07-15,Python,false,false,Secure foundation model research
+codex-agent-tools,70,UseAI-pro/openclaw-skills-security,https://github.com/UseAI-pro/openclaw-skills-security,2026-07-30,Python,false,false,Security-first OpenClaw skills
+llm-jailbreak-redteam,68,xirui-li/DrAttack,https://github.com/xirui-li/DrAttack,2026-07-17,JavaScript,false,false,Jailbreak research implementation
+prompt-injection-defense,66,Josh-blythe/bordair-multimodal,https://github.com/Josh-blythe/bordair-multimodal,2026-08-01,Python,false,false,Multimodal prompt injection test suite
+llm-jailbreak-redteam,62,ZJU-LLM-Safety/DARWIN,https://github.com/ZJU-LLM-Safety/DARWIN,2026-08-01,Python,false,false,Self-evolving jailbreak framework
+prompt-injection-defense,59,zhihuiyuze/PDF-Prompt-Injection-Toolkit,https://github.com/zhihuiyuze/PDF-Prompt-Injection-Toolkit,2026-07-01,Python,false,false,PDF prompt injection toolkit
+codex-agent-tools,59,pors/skill-audit,https://github.com/pors/skill-audit,2026-07-20,Python,false,false,AI agent skill security auditing
+prompt-injection-defense,58,facebookresearch/prompt-siren,https://github.com/facebookresearch/prompt-siren,2026-07-30,Python,false,false,Prompt injection research workbench
+codex-agent-tools,58,gl0di/clawseccheck,https://github.com/gl0di/clawseccheck,2026-07-27,Python,false,false,OpenClaw risk scanner
+prompt-injection-defense,56,peluche/deck-of-many-prompts,https://github.com/peluche/deck-of-many-prompts,2026-07-09,Python,false,false,Manual red-team tool
+prompt-injection-defense,55,General-Analysis/mcp-guard,https://github.com/General-Analysis/mcp-guard,2026-07-20,TypeScript,false,false,MCP injection protection
+prompt-injection-defense,54,cybozu/prompt-hardener,https://github.com/cybozu/prompt-hardener,2026-07-14,Python,false,false,Prompt-injection risk analysis
+prompt-injection-defense,53,facebookresearch/rl-injector,https://github.com/facebookresearch/rl-injector,2026-07-06,Python,false,false,RL prompt injection research
+prompt-injection-defense,53,ax128/AegisGate,https://github.com/ax128/AegisGate,2026-08-02,Python,false,false,Security gateway for LLM APIs
+prompt-injection-defense,52,spindriftpapilio/prompt-injection-generator,https://github.com/spindriftpapilio/prompt-injection-generator,2026-07-25,Python,false,false,Prompt injection generator
+prompt-injection-defense,51,BlueprintLabIO/prompt-injector,https://github.com/BlueprintLabIO/prompt-injector,2026-07-08,TypeScript,false,false,Research-informed injection attacks
+prompt-injection-defense,50,humanbound/humanbound-firewall,https://github.com/humanbound/humanbound-firewall,2026-08-02,Python,false,false,AI agent firewall
+llm-jailbreak-redteam,42,xaoLiu1222/cc-bos,https://github.com/xaoLiu1222/cc-bos,2026-06-30,Python,false,false,Classical Chinese optimization jailbreak research
+llm-jailbreak-redteam,37,facebookresearch/jailbreak-objectives,https://github.com/facebookresearch/jailbreak-objectives,2026-07-06,Python,false,false,Nuanced LLM jailbreak research code
+llm-jailbreak-redteam,32,Meirtz/Awesome-LLM-Jailbreak,https://github.com/Meirtz/Awesome-LLM-Jailbreak,2026-06-21,Unknown,false,false,LLM jailbreak list
+resource-list,30,xsankar/AI-Red-Teaming,https://github.com/xsankar/AI-Red-Teaming,2026-03-13,Unknown,false,false,LLM red-team notes
+llm-jailbreak-redteam,27,0din-ai/sidekick,https://github.com/0din-ai/sidekick,2026-05-10,JavaScript,false,false,AI security research extension
+llm-jailbreak-redteam,24,randalltr/universal-llm-jailbreak-hiddenlayer,https://github.com/randalltr/universal-llm-jailbreak-hiddenlayer,2026-07-23,Unknown,false,false,Universal jailbreak writeup repo
+llm-jailbreak-redteam,22,GenggengSvan/Jailbreak-Observatory,https://github.com/GenggengSvan/Jailbreak-Observatory,2026-07-27,Python,false,false,Jailbreak trend analysis
+llm-jailbreak-redteam,21,theshi-1128/jailbreak-bench,https://github.com/theshi-1128/jailbreak-bench,2026-04-14,Python,false,false,Jailbreak attack benchmark
+codex-gpt56-pojia,20,0x5477/gpt-5.6-instruct,https://github.com/0x5477/gpt-5.6-instruct,2026-08-02,Python,false,false,GPT-5.6-SOL prompts and tests
+llm-jailbreak-redteam,17,Bowen1911/xJailbreak,https://github.com/Bowen1911/xJailbreak,2026-07-03,Python,false,false,Representation-space guided jailbreak research
+llm-jailbreak-redteam,16,SecNode/AISecLists,https://github.com/SecNode/AISecLists,2026-07-04,Unknown,false,false,AI red-team arsenal
+llm-jailbreak-redteam,13,bcdannyboy/PromptMatryoshka,https://github.com/bcdannyboy/PromptMatryoshka,2026-03-26,Python,false,false,Multi-provider jailbreak research framework
+llm-jailbreak-redteam,12,hi-unc1e/Auto_JB_APE,https://github.com/hi-unc1e/Auto_JB_APE,2026-07-09,Python,false,false,Automated jailbreak framework
+llm-jailbreak-redteam,10,randalltr/prompt-engineering-for-hackers,https://github.com/randalltr/prompt-engineering-for-hackers,2026-05-25,Unknown,false,false,Adversarial prompting intro
+llm-jailbreak-redteam,10,matanbt/interp-jailbreak,https://github.com/matanbt/interp-jailbreak,2026-07-06,Jupyter Notebook,false,false,Attention hijacking analysis
+llm-jailbreak-redteam,9,Harrychangtw/ais3-2026-llm-jailbreak-lab,https://github.com/Harrychangtw/ais3-2026-llm-jailbreak-lab,2026-07-24,Jupyter Notebook,false,false,Training lab
+llm-jailbreak-redteam,9,NeuralTrust/echo-chamber,https://github.com/NeuralTrust/echo-chamber,2026-07-14,Jupyter Notebook,false,false,Echo Chamber examples
+llm-jailbreak-redteam,8,isack-ml/jailbreak_llm,https://github.com/isack-ml/jailbreak_llm,2026-02-23,Python,false,false,Prompt injection implementations
+llm-jailbreak-redteam,8,xndong/SATA,https://github.com/xndong/SATA,2026-07-30,Python,false,false,SATA jailbreak research
+codex-gpt56-pojia,7,xiaoliu07-sudo/xiaoliu-pojia,https://github.com/xiaoliu07-sudo/xiaoliu-pojia,2026-08-02,Python,false,false,Codex pojia one-click deploy tool
+llm-jailbreak-redteam,7,zakky8/llm-jailbreak-taxonomy,https://github.com/zakky8/llm-jailbreak-taxonomy,2026-07-28,Jupyter Notebook,false,false,Taxonomy and evaluation
+llm-jailbreak-redteam,7,SlowLow999/Br3aks_C0d3x,https://github.com/SlowLow999/Br3aks_C0d3x,2026-07-01,Unknown,false,false,Jailbreak guide
+llm-jailbreak-redteam,6,AAN-AutoAdv/AutoAdv,https://github.com/AAN-AutoAdv/AutoAdv,2026-06-09,Python,false,false,Multi-turn adversarial prompting
+llm-jailbreak-redteam,6,hukkai/adc_llm_attack,https://github.com/hukkai/adc_llm_attack,2026-05-07,Python,false,false,Optimization jailbreak research
+codex-gpt56-pojia,5,xscope0/aegis,https://github.com/xscope0/aegis,2026-07-30,Python,false,false,CLI referencing gpt-5.6-instruct
+llm-jailbreak-redteam,5,quantum2689/jail_breaker,https://github.com/quantum2689/jail_breaker,2026-07-22,Python,false,false,Automated jailbreak generator agent
+codex-gpt56-pojia,3,meo9805/codex-redteam-mode,https://github.com/meo9805/codex-redteam-mode,2026-08-02,Python,false,false,Codex red-team mode mirror
+codex-agent-tools,3,kekmodel/codex-system-prompts,https://github.com/kekmodel/codex-system-prompts,2026-05-15,Python,false,false,Codex prompt strings mirror
+codex-agent-tools,3,chenkumi/codex-prompt-analysis,https://github.com/chenkumi/codex-prompt-analysis,2026-07-08,Python,false,false,Codex prompt token analysis
+codex-gpt56-pojia,2,defmlr/gpt-5-6-sol-optimized-instructions,https://github.com/defmlr/gpt-5-6-sol-optimized-instructions,2026-07-29,Unknown,false,false,GPT-5.6 Sol custom instructions
+codex-gpt56-pojia,2,xw9114/prompt,https://github.com/xw9114/prompt,2026-08-01,Python,false,false,Codex pojia prompt index
+codex-agent-tools,2,tz8899/pojia,https://github.com/tz8899/pojia,2026-07-10,Python,false,true,Forked local Codex session file tool
+codex-gpt56-pojia,1,cyberlieflife/CodexJailbreak,https://github.com/cyberlieflife/CodexJailbreak,2026-07-28,Python,false,false,Codex CLI skill router
+codex-gpt56-pojia,1,kcd-dev/gpt-5.6-instruct-,https://github.com/kcd-dev/gpt-5.6-instruct-,2026-07-16,Python,false,false,Same-name cluster
+codex-gpt56-pojia,1,madasiwo774455/prompt,https://github.com/madasiwo774455/prompt,2026-07-12,Unknown,false,false,Codex pojia prompt index
+codex-gpt56-pojia,0,NSppeer/gpt-5.6-instruct,https://github.com/NSppeer/gpt-5.6-instruct,2026-08-01,Unknown,false,false,Same-name cluster
+codex-gpt56-pojia,0,wfygefjgd/gpt-5.6-instruct,https://github.com/wfygefjgd/gpt-5.6-instruct,2026-07-31,Python,false,false,Same-name cluster
+codex-agent-tools,0,wubing733-prog/agent-pojia,https://github.com/wubing733-prog/agent-pojia,2026-07-30,Unknown,false,false,AI skill management tool
+codex-agent-tools,0,zixuliubu/pojia,https://github.com/zixuliubu/pojia,2026-07-28,Unknown,false,true,Reverse-engineering skill
+codex-agent-tools,0,zixuliubu/reverse-pojia-skill,https://github.com/zixuliubu/reverse-pojia-skill,2026-07-30,Unknown,false,true,Reverse security skill router pack
+
+
