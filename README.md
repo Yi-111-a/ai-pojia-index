@@ -1,8 +1,19 @@
-# AI Pojia / Jailbreak GitHub Index
+﻿# AI Pojia / Jailbreak GitHub Index
 
 > Snapshot date: 2026-08-03, Asia/Shanghai.
 >
 > This repository is an index only. It links to public GitHub repositories and summarizes public metadata such as stars, language, and update time. It does not copy jailbreak prompts, payloads, bypass recipes, or repository content.
+
+## Language Versions
+
+- [English](README.en.md)
+- [简体中文](README.zh-CN.md)
+- [日本語](README.ja.md)
+- [한국어](README.ko.md)
+- [Español](README.es.md)
+- [Français](README.fr.md)
+- [Deutsch](README.de.md)
+- [Português (Brasil)](README.pt-BR.md)
 
 ## Scope
 
@@ -235,4 +246,5 @@ Recommended refresh cadence:
 2. De-duplicate by `owner/repo`.
 3. Re-sort each category by stars descending.
 4. Keep entries link-only and avoid copying operational payloads.
+
 
